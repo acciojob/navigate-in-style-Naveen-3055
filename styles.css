@@ -3,10 +3,10 @@
 	background-color:#D3D3D3;
 	padding:10px;
 }
-.nav-bar ul{
+.list{
 	list-style-type:none;
 }
-.nav-bar li{
+.list{
 	display:inline;
 	margin-right:1rem;
 	
